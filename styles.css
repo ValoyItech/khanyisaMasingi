@@ -1977,3 +1977,8 @@ iframe {
     }
 
     }
+
+/* styles.css */
+.black {
+    color: #000000; /* Updated to pure black */
+}
